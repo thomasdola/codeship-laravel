@@ -9,6 +9,6 @@ class LikesTest extends TestCase
     /** @test */
     public function a_user_can_like_a_post()
     {
-
+        
     }
 }
